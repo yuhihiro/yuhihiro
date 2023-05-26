@@ -32,7 +32,7 @@
 
 
   
-- 🌱 Hoje estudo Javascript, Nodejs e Python
+- 🌱 Hoje estudo Python, fastapi e flask
 - 📫 Contate-me no email Matheusptc854@gmail.com
 - 😄 Pronouns: ele/dele
 -->
