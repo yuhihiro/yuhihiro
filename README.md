@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="./profile.jpeg" width="180" style="border-radius: 50%; border: 5px solid #00D4FF; box-shadow: 0 0 40px rgba(0, 212, 255, 0.6); object-fit: cover;" />
+  <img src="./profile.jpg" width="180" style="border-radius: 50%; border: 5px solid #00D4FF; box-shadow: 0 0 40px rgba(0, 212, 255, 0.6); object-fit: cover;" />
 </div>
 
 <div align="center">
@@ -59,8 +59,8 @@
 - 💡 Sempre em busca de novos desafios
 - 👤 Pronomes: **ele/dele**
 - ☕ Movido a café e música
-- 🚗 Adoro dar uma volta de moto
 - 🌙 Programador noturno nato
+- 🚗 Amo dar uns rolês de carro
 
 </td>
 </tr>
@@ -84,9 +84,9 @@
 </td>
 <td width="33%" align="center">
 
-### 🏍️ Motociclista
+### 🚗 Car Lover
 <br>
-<img src="https://img.shields.io/badge/🏍️_Pilotando-FF9800?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚗_Rolês-2196F3?style=for-the-badge" />
 
 </td>
 <td width="33%" align="center">
@@ -214,11 +214,19 @@
 
 ---
 
-## <div align="center"> 🎵 Ouvindo no momento </div>
+## <div align="center"> 🎵 Minha Playlist do Spotify </div>
 
 <div align="center">
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=3&width=400)](https://open.spotify.com/)
+<a href="https://open.spotify.com/playlist/7yY9K5lNNDxCSpnm4pk3MP" target="_blank">
+  <img src="https://img.shields.io/badge/🎵_Ouvir_no_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+<br>
+
+<a href="https://open.spotify.com/playlist/7yY9K5lNNDxCSpnm4pk3MP" target="_blank">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=7yY9K5lNNDxCSpnm4pk3MP&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" width="300" />
+</a>
 
 </div>
 
