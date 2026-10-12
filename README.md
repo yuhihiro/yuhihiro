@@ -46,7 +46,7 @@
 - 🏛️ **Coordenador de Software** na Prefeitura de Patrocínio
 - 💻 Desenvolvendo sistemas para **+14 secretarias** municipais
 - 🚀 Desenvolvedor **Full-Stack**
-- 📱 Foco atual em **Android**
+- 📱 Foco atual em **web/android**
 - 🌱 Estudando **Flutter**, **Dart** e **Firebase**
 
 </td>
