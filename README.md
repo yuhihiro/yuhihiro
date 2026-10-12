@@ -46,23 +46,59 @@
 - 🏛️ **Coordenador de Software** na Prefeitura de Patrocínio
 - 💻 Desenvolvendo sistemas para **+14 secretarias** municipais
 - 🚀 Desenvolvedor **Full-Stack**
-- 📱 Foco atual em **web/android**
+- 📱 Foco atual em **Android**
 - 🌱 Estudando **Flutter**, **Dart** e **Firebase**
 
 </td>
 <td width="50%">
 
-### ⚡ Curiosidades
+### ⚡ Curiosidades sobre mim
 
 - 🎮 Gamer de verdade nas horas vagas
 - 🎨 Viciado em design bonito e intuitivo
-- � Sempre em busca de novos desafios
-- �👤 Pronomes: **ele/dele**
+- 💡 Sempre em busca de novos desafios
+- 👤 Pronomes: **ele/dele**
 - ☕ Movido a café e música
+- 🚗 Adoro dar uma volta de moto
+- 🌙 Programador noturno nato
 
 </td>
 </tr>
 </table>
+</div>
+
+---
+
+## <div align="center"> 🎮 Vida além do código </div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎮 Gamer
+<br>
+<img src="https://img.shields.io/badge/🎮_Jogador-F44336?style=for-the-badge" />
+
+</td>
+<td width="33%" align="center">
+
+### 🏍️ Motociclista
+<br>
+<img src="https://img.shields.io/badge/🏍️_Pilotando-FF9800?style=for-the-badge" />
+
+</td>
+<td width="33%" align="center">
+
+### ☕ Coffee Lover
+<br>
+<img src="https://img.shields.io/badge/☕_Viciado-795548?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -89,8 +125,6 @@
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 </td>
 <td align="center" width="25%">
@@ -108,10 +142,8 @@
 ### ☁️ Cloud & Tools
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </td>
 </tr>
